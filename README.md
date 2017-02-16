@@ -2,7 +2,7 @@
 - 期望职位：php开发工程师
 - 手机：13229784981
 - 邮箱：kali20@126.com
-- 博客：http://403sec.cn/blog
+- 博客：http://blogs.ngrok.cc/blog
 ####技能清单
 
 - 熟悉常用前端技术HTML、css、javascript、bootsrap框架d等
